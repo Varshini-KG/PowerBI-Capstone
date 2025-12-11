@@ -39,7 +39,9 @@ Created key performance measures including:
 
 <h2><b>Dashboard View:</b></h2>
 
-To view[Click here]
+<p align="center">
+  <img src="ShopNest e-commerce analysis_page-0001.jpg" alt="ShopNest dashboard" width="900">
+</p>
 
 <h2><b>Key Insights:</b></h2>
 
