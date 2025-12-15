@@ -43,6 +43,8 @@ Created key performance measures including:
   <img src="ShopNest e-commerce analysis_page-0001.jpg" alt="ShopNest dashboard" width="900">
 </p>
 
+[Live Dashboard](https://app.powerbi.com/reportEmbed?reportId=de93e7f1-8fdd-43f6-9a0e-ee2b2394c8fd&autoAuth=true&ctid=cb0ed80c-344d-4952-bec0-fddd190f3163)
+
 <h2><b>Key Insights:</b></h2>
 
 - **Top Sales Categories:** Health & Beauty are the top categories with total sales of **$1.53M**
